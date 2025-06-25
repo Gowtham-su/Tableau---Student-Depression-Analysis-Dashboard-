@@ -81,7 +81,7 @@ You can view the dashboard in two ways:
 
 1. **Download the .pbix file** from this repo and open it using **Power BI Desktop**.
 2. **[Optional]** View the published version on Power BI Service (if you’ve published it):
-   - [Live Power BI Dashboard Link](https://public.tableau.com/views/studentdepressionanalysis_17508682850950/StudentCountAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - [Live Tableau Dashboard Link](https://public.tableau.com/views/studentdepressionanalysis_17508682850950/StudentCountAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
