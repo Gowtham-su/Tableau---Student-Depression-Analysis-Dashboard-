@@ -62,7 +62,7 @@ This Power BI project analyzes **[brief description of the business/domain]** us
 
 > *(Include images of your Power BI dashboard – you can export or take screenshots and upload them to your GitHub repo. Then embed them like this:)*
 
-![Dashboard Screenshot](screenshots/dashboard1.png)
+![Dashboard Screenshot](Dashboard Images/tableau student depression analysis.PNG)
 
 ---
 
